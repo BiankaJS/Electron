@@ -1,0 +1,21 @@
+{
+  "name": "app-06-clienteservidor",
+  "version": "1.0.0",
+  "description": "Quinta aplicacion de Electron",
+  "main": "app.js",
+  "scripts": {
+    "dev": "electron app.js",
+    "start": "electron app.js"
+  },
+  "keywords": [
+    "Electron",
+    "NodeJs",
+    "Escritorio",
+    "Bootstrap"
+  ],
+  "author": "Bianka Juarez",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^21.0.1"
+  }
+}
